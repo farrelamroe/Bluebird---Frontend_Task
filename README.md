@@ -19,4 +19,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Then a display like this will appear
 ![Screenshot 1](./public/screenshot.png)
 
-Saya masih kebingungan bagaimana cara menambahkan list kedalam wishlist dan mybook, mungkin hanya sampai sini saja kemampuan saya, saya yakin saya akan cepat belajar hal baru.
