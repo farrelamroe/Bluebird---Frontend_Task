@@ -64,14 +64,18 @@ export function Navbar() {
               <p className="hover:cursor-pointer hover:font-bold">Home</p>
             </Link>
             <div className="group relative z-50 text-sm">
-              <button className=" font-poppins text-xl text-white hover:font-bold">
-                <span>Wishlist</span>
-              </button>
+              <Link href="/wishlist">
+                <button className=" font-poppins text-xl text-white hover:font-bold">
+                  <span>Wishlist</span>
+                </button>
+              </Link>
             </div>
             <div className="group relative z-50 text-sm">
-              <button className=" font-poppins text-xl text-white hover:font-bold">
-                <span>MyBook</span>
-              </button>
+              <Link href="/book">
+                <button className=" font-poppins text-xl text-white hover:font-bold">
+                  <span>MyBook</span>
+                </button>
+              </Link>
             </div>
           </div>
 
